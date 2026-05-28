@@ -1,0 +1,20 @@
+{
+  "name": "techlab-nodejs",
+  "version": "1.0.0",
+  "description": "preentrega",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Alan Cahuana Rodriguez",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "chai": "^5.3.3",
+    "mocha": "^11.7.5"
+  }
+}
